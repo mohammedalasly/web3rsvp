@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.17;
+pragma solidity ^0.8.18;
 
 ///@title RSVP Dapp.
 // a web3-native Eventbrite, except attendees need to deposit ETH to RSVP
